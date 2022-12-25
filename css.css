@@ -1,0 +1,72 @@
+
+
+ul li{
+list-style-type: inline-block;
+float: right;
+padding: 15px;
+text-decoration: none;
+list-style: none;
+margin: 5px;
+
+}
+table{
+font-size:  30px;
+
+
+
+
+}
+
+li.mainlist{
+
+
+	color: black;
+	border: red solid 5px;
+	background-color: red;
+	border-radius: 50px;
+	opacity: 0.7;
+}
+a{
+  text-decoration: none;
+}
+
+li:hover{
+
+
+	font-size: 20px;
+	transition: 0.6s ease;
+	background-color: white;
+	opacity: 1;
+}
+
+body{
+	background-image: linear-gradient(to right, silver , blue);
+
+}
+h1{
+
+	color: blue;
+}
+
+
+.Thehead1{
+background-color: yellowgreen;
+border: solid yellowgreen 70px ;
+width: 250px;
+height: 1px;
+border-radius: 40px;
+box-shadow: 10px 10px 10px;
+margin-bottom: 1px;
+padding-bottom:30px;
+
+
+
+
+}
+
+.fix{
+color: black;
+border-radius: 40px;
+
+
+}
